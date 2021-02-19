@@ -6,7 +6,7 @@ Model Description
 
 **bilstm.py:** We use the network structure used by SySeVR and VulDeePecker for comparison experiments.
 
-**cbam.py:** The content described in formulas 5 to 8 in the paper. , We add channel attention and spatial attention from the CBAM to our network to improve the performance of convolution.
+**cbam.py:** The content described in formulas 5 to 8 in the paper. We add channel attention and spatial attention from the CBAM to our network to improve the performance of convolution.
 
 **cnn.py:** A convolutional neural network model with only two convolution operations is used for comparison experiments.
 
