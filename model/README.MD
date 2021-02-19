@@ -1,6 +1,6 @@
 Model Description
 ---
-Experimental environment: python 3.7, pytorch 1.4.0
+**Experimental environment:** python 3.8, pytorch 1.4.0
 
 **attention_token.py:** The content described in Figure 4 and formulas 1 to 4 in the paper. Not every token is equally important for our vulnerability detection, so the purpose of embedding attention is to find out the most significant contributions for vulnerability detection.
 
